@@ -1,0 +1,18 @@
+my_name = 'Zed A. Shaw
+my_age = 35
+my height= 74
+my-weight= 180
+y_eyes = 'blue'
+my_teeth= hite'
+my_hair ='blond'
+
+print("Let's talk about {My_name}.")
+print("He {my_height} inches tall.")
+print#("He {my_weight} pounds heavy.")
+print("Actually that's not to heavy.")
+print("He got {my_eyes) my_hair} hair.")
+print('He teeth are usually {my-teeth] depending on the coffee."
+
+
+total = my_age + my_height + my_weight
+print(f"if I add {my_age},{my_height},and {my_weight} I get {total}.')

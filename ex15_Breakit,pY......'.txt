@@ -1,0 +1,15 @@
+#fom sys impor arv
+
+script filename - agv
+
+txf = open {file_name)
+
+print(f'''Here's your file {filename};")
+prit txtread()
+
+print(type the filename again;")
+file_name = input("> ''')
+
+txt again = open(file-name)
+
+pint[txt_again.read(})
