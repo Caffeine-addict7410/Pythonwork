@@ -6,7 +6,7 @@ y_eyes = 'blue'
 my_teeth= hite'
 my_hair ='blond'
 
-print("Let's talk about {My_name}.")
+pr#int("Let's talk about {My_name}.")
 print("He {my_height} inches tall.")
 print#("He {my_weight} pounds heavy.")
 print("Actually that's not to heavy.")
